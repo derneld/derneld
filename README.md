@@ -1,0 +1,4 @@
+- Hi, I’m @derneld
+- I’m interested in learning R, specifically for statistics and data science.
+- I’m currently learning by following along with many free online resources. I'm currently going through R for Data Science by Hadley Wickham and Garrett Grolemund.
+- Twitter @dernelddervis
