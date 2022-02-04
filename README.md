@@ -1,2 +1,1 @@
-- Hi, I’m @derneld
-- I’m working on a masters degree in statistics and come here often to learn from the work of others, particularly using R.
+
